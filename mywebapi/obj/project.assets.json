@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/priyanku/dotnetcore/mywebapi/mywebapi.csproj",
+      "projectUniqueName": "/home/priyanku/dotnetcore/learn-docker/mywebapi/mywebapi.csproj",
       "projectName": "mywebapi",
-      "projectPath": "/home/priyanku/dotnetcore/mywebapi/mywebapi.csproj",
+      "projectPath": "/home/priyanku/dotnetcore/learn-docker/mywebapi/mywebapi.csproj",
       "packagesPath": "/home/priyanku/.nuget/packages/",
-      "outputPath": "/home/priyanku/dotnetcore/mywebapi/obj/",
+      "outputPath": "/home/priyanku/dotnetcore/learn-docker/mywebapi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
