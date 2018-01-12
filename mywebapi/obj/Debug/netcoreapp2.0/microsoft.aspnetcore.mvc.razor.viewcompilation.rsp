@@ -1,0 +1,5 @@
+/home/priyanku/dotnetcore/mywebapi
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=mywebapi
+--content-root=/home/priyanku/dotnetcore/mywebapi
+--file=

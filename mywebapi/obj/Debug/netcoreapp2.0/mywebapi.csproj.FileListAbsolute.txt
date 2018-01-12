@@ -1,0 +1,10 @@
+/home/priyanku/dotnetcore/mywebapi/bin/Debug/netcoreapp2.0/mywebapi.deps.json
+/home/priyanku/dotnetcore/mywebapi/bin/Debug/netcoreapp2.0/mywebapi.runtimeconfig.json
+/home/priyanku/dotnetcore/mywebapi/bin/Debug/netcoreapp2.0/mywebapi.runtimeconfig.dev.json
+/home/priyanku/dotnetcore/mywebapi/bin/Debug/netcoreapp2.0/mywebapi.dll
+/home/priyanku/dotnetcore/mywebapi/bin/Debug/netcoreapp2.0/mywebapi.pdb
+/home/priyanku/dotnetcore/mywebapi/obj/Debug/netcoreapp2.0/mywebapi.csproj.CoreCompileInputs.cache
+/home/priyanku/dotnetcore/mywebapi/obj/Debug/netcoreapp2.0/mywebapi.AssemblyInfoInputs.cache
+/home/priyanku/dotnetcore/mywebapi/obj/Debug/netcoreapp2.0/mywebapi.AssemblyInfo.cs
+/home/priyanku/dotnetcore/mywebapi/obj/Debug/netcoreapp2.0/mywebapi.dll
+/home/priyanku/dotnetcore/mywebapi/obj/Debug/netcoreapp2.0/mywebapi.pdb
